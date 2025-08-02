@@ -1,4 +1,3 @@
-Here’s a well-structured `README.md` for your LinkedIn Post Generator project, covering features, setup, usage, and tech stack:
 
 ---
 
@@ -121,5 +120,3 @@ MIT License — free to use, modify, and distribute.
 * LinkedIn creators who inspire ✨
 
 ---
-
-Let me know if you'd like a version with GitHub badges, deploy instructions (e.g. for Streamlit Cloud or Hugging Face Spaces), or a `requirements.txt` file generated.
